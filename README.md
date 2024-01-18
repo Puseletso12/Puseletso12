@@ -15,6 +15,7 @@
 - CSS
 - ReactJS
 - Git/GitHub
+- Firebase
 
 # 📫 How to reach me 
 <a href="https://www.linkedin.com/in/puseletso-chuene-0840b8278/" rel="nofollow"><img src="https://github.com/shikhar1020jais1/Git-Social/raw/master/Icons/LinkedIn.png" alt="linkedin" title="LinkedIn" style="max-width: 100%;"></a>
