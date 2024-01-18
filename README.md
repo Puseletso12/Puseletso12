@@ -7,7 +7,7 @@
   
 # Proficient in the following:
 
-<img src="https://camo.githubusercontent.com/fc8790fefaffcaef7324ffa97ffbe4cc215f9fd71fafe3004a15bc50070bdd9a/68747470733a2f2f736b696c6c732e7468696a732e67672f69636f6e733f693d6a732c68746d6c2c6373732c72656163742c676974" alt="My Skills" data-canonical-src="https://skills.thijs.gg/icons?i=js,html,css,react,git" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/fc8790fefaffcaef7324ffa97ffbe4cc215f9fd71fafe3004a15bc50070bdd9a/68747470733a2f2f736b696c6c732e7468696a732e67672f69636f6e733f693d6a732c68746d6c2c6373732c72656163742c676974" alt="My Skills" data-canonical-src="https://skills.thijs.gg/icons?i=js,html,css,react,git,firebase" style="max-width: 100%;">
 
 
 - JavaScript
